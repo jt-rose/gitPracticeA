@@ -1,1 +1,3 @@
 Time for some git practice. let's fix the following typo.
+
+I will add a new sentence, commit it, then merge the branch back into the master.
