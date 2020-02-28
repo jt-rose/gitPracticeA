@@ -1,0 +1,15 @@
+git init >> initialize repository
+git status >> check status
+git add <file> >> add file to staging
+git commit -m "message" >> commit and add message
+git branch >> show current branches
+git branch <branchname> >> create new branch
+git merge master branchname >> merge branch into master
+git branch --delete branchname >> delete the branch
+git clone https:... >> clone from remote repository
+git fetch >> get changes from remote, but don't commit yet
+git pull >> get changes from remote and commit
+git push --set-upstream master origin >> push changes to remote
+git log >> show commits
+git diff >> show differences
+gitk >> GUI git program
