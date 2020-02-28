@@ -5,3 +5,5 @@ I will add a new sentence, commit it, then merge the branch back into the master
 Let's add back a third sentence, but this time we will only fetch it (not pull) in the local repo.
 
 For our fourth sentence, let's commit it locally and then push it to the remote.
+
+And once more...
