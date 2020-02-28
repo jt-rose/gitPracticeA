@@ -1,3 +1,5 @@
 Time for some git practice. let's fix the following typo.
 
 I will add a new sentence, commit it, then merge the branch back into the master.
+
+Let's add back a third sentence, but this time we will only fetch it (not pull) in the local repo.
